@@ -47,3 +47,7 @@ category and these people’s percent ratio.
 
 o The name of the city which has the minimum percent of persons in underweight BMI 
 category and these people’s percent ratio.
+
+# How to use
+
+Simply download and run the code :)
