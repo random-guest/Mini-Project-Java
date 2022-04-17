@@ -51,3 +51,6 @@ category and these people’s percent ratio.
 # How to use
 
 Simply download and run the code :)
+
+# Contact info
+atrashabdulkarim@gmail.com
