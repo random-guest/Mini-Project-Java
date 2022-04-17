@@ -9,7 +9,7 @@ calculation). The BMI is a convenient way for classifying persons in to 4 catego
 as shown the following table:
 
    BMI value         |    Category          
-Less than            |  18.5 Underweight   
+Less than 18.5       |   Underweight   
 18.5 to less than 25 |   Normal
 25 to less than 30   |   Overweight
 30 or higher         |   Obese
