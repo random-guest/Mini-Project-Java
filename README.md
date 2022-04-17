@@ -8,10 +8,14 @@ categories, and which may use other units of measurement (converted to metric un
 calculation). The BMI is a convenient way for classifying persons in to 4 categories based the BMI value 
 as shown the following table:
 
-   BMI value         |    Category          
+   BMI value         |    Category    
+   
 Less than 18.5       |   Underweight   
+
 18.5 to less than 25 |   Normal
+
 25 to less than 30   |   Overweight
+
 30 or higher         |   Obese
 
 A national study in some country to analyze the BMI of the people in the country is considered. In this 
