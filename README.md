@@ -35,6 +35,7 @@ computed and printed.
 and printed.
 
 • Finally, the program should print a summary report with the following details:
+
 o Number of cities.
 
 o Total number of persons and percent ratio of persons in each BMI category in all cities.
